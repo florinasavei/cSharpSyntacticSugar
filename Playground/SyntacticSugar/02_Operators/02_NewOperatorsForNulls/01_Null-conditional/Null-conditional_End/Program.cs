@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Null_conditional_End
 {
@@ -6,7 +7,12 @@ namespace Null_conditional_End
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<int> someNumbers = null;
+
+            int? length1 = (someNumbers != null) ? (int?)someNumbers.Count : null;
+
+            int? length2 = someNumbers?.Count; // null if people is null
+
         }
     }
 }

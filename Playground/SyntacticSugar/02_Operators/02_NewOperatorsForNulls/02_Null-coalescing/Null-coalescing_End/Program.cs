@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Null_coalescing_End
 {
@@ -6,7 +7,10 @@ namespace Null_coalescing_End
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            int? a = null;
+            int b = a ?? -1;
+            Console.WriteLine(b);
         }
     }
 }

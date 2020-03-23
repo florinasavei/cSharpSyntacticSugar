@@ -6,7 +6,7 @@ namespace Operators_End
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }

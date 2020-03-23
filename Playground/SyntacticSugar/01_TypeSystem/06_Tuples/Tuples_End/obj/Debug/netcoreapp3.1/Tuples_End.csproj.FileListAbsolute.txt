@@ -1,0 +1,12 @@
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\bin\Debug\netcoreapp3.1\Tuples_End.exe
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\bin\Debug\netcoreapp3.1\Tuples_End.deps.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\bin\Debug\netcoreapp3.1\Tuples_End.runtimeconfig.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\bin\Debug\netcoreapp3.1\Tuples_End.runtimeconfig.dev.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\bin\Debug\netcoreapp3.1\Tuples_End.dll
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\bin\Debug\netcoreapp3.1\Tuples_End.pdb
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\obj\Debug\netcoreapp3.1\Tuples_End.csproj.CoreCompileInputs.cache
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\obj\Debug\netcoreapp3.1\Tuples_End.AssemblyInfoInputs.cache
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\obj\Debug\netcoreapp3.1\Tuples_End.AssemblyInfo.cs
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\obj\Debug\netcoreapp3.1\Tuples_End.dll
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\obj\Debug\netcoreapp3.1\Tuples_End.pdb
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\06_Tuples\Tuples_End\obj\Debug\netcoreapp3.1\Tuples_End.genruntimeconfig.cache
