@@ -1,0 +1,13 @@
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\bin\Debug\netcoreapp3.1\TypesRecap_End.exe
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\bin\Debug\netcoreapp3.1\TypesRecap_End.deps.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\bin\Debug\netcoreapp3.1\TypesRecap_End.runtimeconfig.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\bin\Debug\netcoreapp3.1\TypesRecap_End.runtimeconfig.dev.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\bin\Debug\netcoreapp3.1\TypesRecap_End.dll
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\bin\Debug\netcoreapp3.1\TypesRecap_End.pdb
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\obj\Debug\netcoreapp3.1\TypesRecap_End.csprojAssemblyReference.cache
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\obj\Debug\netcoreapp3.1\TypesRecap_End.csproj.CoreCompileInputs.cache
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\obj\Debug\netcoreapp3.1\TypesRecap_End.AssemblyInfoInputs.cache
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\obj\Debug\netcoreapp3.1\TypesRecap_End.AssemblyInfo.cs
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\obj\Debug\netcoreapp3.1\TypesRecap_End.dll
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\obj\Debug\netcoreapp3.1\TypesRecap_End.pdb
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\01_TypesRecap\TypesRecap_End\obj\Debug\netcoreapp3.1\TypesRecap_End.genruntimeconfig.cache

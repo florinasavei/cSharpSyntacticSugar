@@ -4,13 +4,15 @@ using System.Text;
 
 namespace TypesRecap_End
 {
-    class BoolTest
+    public class BoolTest
     {
         public void BoolDemo()
         {
-            bool a = true;
+            bool raining = false;
+            bool busLate = true;
 
-            // we will se more when playing with operators.
+            Console.WriteLine("It is raining: {0}", raining);
+            Console.WriteLine("The bus is late: {0}", busLate);
         }
     }
 }

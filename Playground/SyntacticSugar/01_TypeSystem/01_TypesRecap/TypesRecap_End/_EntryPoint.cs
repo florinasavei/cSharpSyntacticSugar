@@ -17,6 +17,9 @@ namespace TypesRecap_End
             StringsTest stringTypes = new StringsTest();
             stringTypes.StringDemo();
 
+            BoolTest boolTypes = new BoolTest();
+            boolTypes.BoolDemo();
+
         }
     }
 }
