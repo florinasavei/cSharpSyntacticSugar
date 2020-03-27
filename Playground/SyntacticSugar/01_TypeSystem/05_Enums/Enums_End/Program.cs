@@ -36,6 +36,10 @@ namespace Enums_End
 
             // get the numeric value
             int playingNumber = (int)currentState;
+
+            var allValues = Enum.GetValues(typeof(PlayerStates));
+
+
         }
     }
 }

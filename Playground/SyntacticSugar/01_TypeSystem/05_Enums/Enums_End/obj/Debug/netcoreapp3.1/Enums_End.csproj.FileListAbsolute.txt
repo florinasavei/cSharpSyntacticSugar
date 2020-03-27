@@ -1,0 +1,13 @@
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\bin\Debug\netcoreapp3.1\Enums_End.exe
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\bin\Debug\netcoreapp3.1\Enums_End.deps.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\bin\Debug\netcoreapp3.1\Enums_End.runtimeconfig.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\bin\Debug\netcoreapp3.1\Enums_End.runtimeconfig.dev.json
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\bin\Debug\netcoreapp3.1\Enums_End.dll
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\bin\Debug\netcoreapp3.1\Enums_End.pdb
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\obj\Debug\netcoreapp3.1\Enums_End.csprojAssemblyReference.cache
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\obj\Debug\netcoreapp3.1\Enums_End.csproj.CoreCompileInputs.cache
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\obj\Debug\netcoreapp3.1\Enums_End.AssemblyInfoInputs.cache
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\obj\Debug\netcoreapp3.1\Enums_End.AssemblyInfo.cs
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\obj\Debug\netcoreapp3.1\Enums_End.dll
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\obj\Debug\netcoreapp3.1\Enums_End.pdb
+D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\05_Enums\Enums_End\obj\Debug\netcoreapp3.1\Enums_End.genruntimeconfig.cache
