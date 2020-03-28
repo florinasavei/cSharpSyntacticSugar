@@ -7,7 +7,7 @@ namespace WorkingWithNulls
         static void Main(string[] args)
         {
             // this will give compile time error
-            //int j = null;
+             //int j = null;
 
             // Valid declaration
             Nullable<int> j = null;
@@ -30,9 +30,15 @@ namespace WorkingWithNulls
             // check the value of object 
             Console.WriteLine(a.HasValue);
 
+            if (a.HasValue)
+            {
+                Console.WriteLine(a.Value);
+            }
+
             //now b has a value so we can access its Value property
             int? b = 7;
             Console.WriteLine(b.Value);
+
 
         }
     }

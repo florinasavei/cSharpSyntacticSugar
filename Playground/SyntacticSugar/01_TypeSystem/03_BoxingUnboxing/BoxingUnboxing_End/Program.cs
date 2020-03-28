@@ -6,6 +6,10 @@ namespace BoxingUnboxing_End
     {
         static void Main(string[] args)
         {
+            //casting example
+            double x = 7.5;
+            int y = (int)x;
+
 
             int TheNumber = 11;
 
@@ -26,12 +30,20 @@ namespace BoxingUnboxing_End
             Program.Print(TheBox);
             Program.Print(OutOfTheBox);
 
+
+            var result = Program.Increment(7.5);
+            double? restul2 = result as double?;
         }
 
         public static int Increment(int a)
         {
             return ++a;
         }
+
+        //public static double Increment(double a)
+        //{
+        //    return ++a;
+        //}
 
         public static object Increment(object a)
         {
@@ -40,12 +52,19 @@ namespace BoxingUnboxing_End
                a = (int)a + 1;
             }
 
+            if (a is double)
+            {
+                a = (double)a * 2;
+            }
+
             return a;
         }
 
         public static void Print(object obj)
         {
-            Console.WriteLine(obj);
+            string theType = obj.GetType().ToString();
+
+            Console.WriteLine($"The type is: {theType}, the values is {obj}");
         }
     }
 }

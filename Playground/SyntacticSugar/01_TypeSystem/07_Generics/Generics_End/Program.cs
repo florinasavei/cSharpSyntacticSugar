@@ -27,7 +27,7 @@ namespace Generics_End
             }
 
             // Generics method 
-            public void Display<TypeOfValue>(string msg, TypeOfValue value)
+            public void Display<T>(string msg, T value) // where T :  struct, IComparable
             {
                 Console.WriteLine("{0}:{1}", msg, value);
             }
@@ -37,7 +37,8 @@ namespace Generics_End
         {
 
             // instance of string type 
-            Anything<string> name = new Anything<string>();
+            var name = new Anything<string>();
+
             name.value = "Some string";
             name.Display<string>("A String :", name.value);
 

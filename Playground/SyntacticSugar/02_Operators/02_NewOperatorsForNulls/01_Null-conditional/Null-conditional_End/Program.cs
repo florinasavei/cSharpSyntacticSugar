@@ -13,6 +13,7 @@ namespace Null_conditional_End
 
             int? length2 = someNumbers?.Count; // null if people is null
 
+            //company?.empoyee?.address?.stretname
         }
     }
 }

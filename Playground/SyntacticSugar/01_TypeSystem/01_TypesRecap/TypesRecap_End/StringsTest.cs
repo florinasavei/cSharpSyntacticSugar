@@ -186,6 +186,14 @@ Row3";
             StringBuilder builder = new StringBuilder("Gigi");
             builder.Append("Micu");
 
+            string a = "a";
+            string b = "b";
+            string c = "c";
+
+            string d1 = a + ", " + b + ", " + c;
+            string d2 = string.Format("{0}, {1}, {2}", a, b, c);
+            string d3 = $"{a}, {b}, {c}"; //string interpolation
+
         }
     }
 }

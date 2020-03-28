@@ -9,7 +9,21 @@ namespace Null_coalescing_End
         {
 
             int? a = null;
-            int b = a ?? -1;
+  
+
+            int b;
+
+            if (a == null)
+            {
+                b = -1;
+            }
+            else
+            {
+                b = a.Value;
+            }
+
+            b = a ?? -1;
+
             Console.WriteLine(b);
         }
     }

@@ -17,7 +17,8 @@ namespace Enums_End
         MediaLoaded = 2,
         Playing = 4,
         Paused = 8,
-        Stopped = 16
+        Stopped = 16,
+        Finished = 16,
     }
 
     class Program
@@ -37,8 +38,12 @@ namespace Enums_End
             // get the numeric value
             int playingNumber = (int)currentState;
 
-            var allValues = Enum.GetValues(typeof(PlayerStates));
+            //int to enum
+            int x = 16;
+            var enumVal = (CustomPlayerStates)x;
 
+
+            var allValues = Enum.GetValues(typeof(PlayerStates));
 
         }
     }
