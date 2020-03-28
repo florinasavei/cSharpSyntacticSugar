@@ -8,6 +8,8 @@ namespace Null_coalescing_assignment_End
         static void Main(string[] args)
         {
 
+
+
             List<int> numbers = null;
             int? a = null;
 
@@ -17,6 +19,10 @@ namespace Null_coalescing_assignment_End
             numbers.Add(a ??= 0);
             Console.WriteLine(string.Join(" ", numbers));  // output: 5 0
             Console.WriteLine(a);  // output: 0
+
+            int? x = null;
+            int by = x ?? -1;
+            Console.WriteLine(x);
         }
     }
 }
