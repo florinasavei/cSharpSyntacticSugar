@@ -11,7 +11,7 @@ namespace ArrayList_End
             arryList1.Add(1);
             arryList1.Add("Two");
             arryList1.Add(3);
-            arryList1.Add(4.5);
+            arryList1.Add(4.5f);
 
             IList arryList2 = new ArrayList()
             {

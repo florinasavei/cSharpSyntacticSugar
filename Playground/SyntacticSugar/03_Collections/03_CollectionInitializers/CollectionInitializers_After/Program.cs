@@ -7,6 +7,15 @@ namespace CollectionInitializers_After
     {
         static void Main(string[] args)
         {
+            #region Array initializers
+
+            int[] a1 = new int[5];
+            int[] a2 = new int[5] { 1, 2, 3, 4, 5 };
+            int[] a3 = new int[] { 1, 2, 3, 4, 5 };
+            int[] a4 = { 1, 2, 3, 4, 5 };
+            var a5 = new int[] { 1, 2, 3, 4, 5 };
+
+            #endregion
 
             #region Lists
             // Version 1: create a List of ints.
@@ -21,6 +30,19 @@ namespace CollectionInitializers_After
             // Version 2: create a List with an initializer.
             var numbers2 = new List<int>() { 2, 3, 5, 7 }; //round brackets are not mandatory
             Console.WriteLine("LIST 2: " + numbers2.Count);
+
+            var nesting = new List<List<int>>
+            {
+                new List<int>
+                {
+                    1,2,3,
+                },
+                 new List<int>
+                {
+                    4,5,6
+                },
+            };
+
             #endregion Lists
 
 

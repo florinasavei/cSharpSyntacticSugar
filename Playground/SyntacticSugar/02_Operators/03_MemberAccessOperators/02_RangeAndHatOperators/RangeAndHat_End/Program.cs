@@ -6,7 +6,12 @@ namespace RangeAndHat_End
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] techArray = { "C", "C++", "C#", "F#", "JavaScript", "Angular", "TypeScript", "React", "GraphQL" };
+
+            foreach (var item in techArray[^2..]) 
+            {
+                Console.WriteLine(item);  //C++ C# F#
+            }
         }
     }
 }

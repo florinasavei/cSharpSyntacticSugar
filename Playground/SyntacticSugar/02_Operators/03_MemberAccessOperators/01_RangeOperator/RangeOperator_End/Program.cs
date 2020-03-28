@@ -8,7 +8,7 @@ namespace RangeOperator_End
         {
             string[] techArray = { "C", "C++", "C#", "F#", "JavaScript", "Angular", "TypeScript", "React", "GraphQL" };
 
-            foreach (var item in techArray[1..4])
+            foreach (var item in techArray[2..4])
             {
                 Console.WriteLine(item);  //C++ C# F#
             }

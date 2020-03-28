@@ -6,7 +6,13 @@ namespace IfElse_End
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            var x = (5 > 6)
+                ? (7 > 8)
+                    ? "mimi"
+                    : "petre" 
+                : "mimi";            
+
         }
     }
 }

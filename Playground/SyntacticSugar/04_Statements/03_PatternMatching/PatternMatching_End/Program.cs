@@ -67,7 +67,7 @@ namespace PatternMatching_End
             var triangle = new Triangle(15, 14);
             var rectangle = new Rectangle(15, 14);
 
-            var rectangleRsult = ComputeAreaModernSwitch(rectangle);
+            var rectangleResult = ComputeAreaModernSwitch(rectangle);
             var triangleResult = ComputeAreaModernSwitch(triangle);
         }
     }

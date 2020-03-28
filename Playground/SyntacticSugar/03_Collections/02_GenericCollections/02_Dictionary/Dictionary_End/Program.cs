@@ -9,9 +9,13 @@ namespace Dictionary_End
         static void Main(string[] args)
         {
             Dictionary<int, string> dict = new Dictionary<int, string>();
+
             dict.Add(1, "One");
             dict.Add(2, "Two");
             dict.Add(3, "Three");
+            dict.TryAdd<int, string>(3, "another three");            
+
+            var el = dict[2];
             
 
             for (int i = 0; i < dict.Count; i++)
@@ -20,6 +24,7 @@ namespace Dictionary_End
                     dict.Keys.ElementAt(i),
                     dict[dict.Keys.ElementAt(i)]);
             }
+
         }
     }
 }
