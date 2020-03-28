@@ -22,8 +22,6 @@ namespace TupleDestructuring_End
 
     class Program
     {
-
-
         // Main method 
         static void Main(string[] args)
         {

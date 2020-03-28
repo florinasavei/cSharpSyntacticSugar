@@ -179,6 +179,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsRecap_End", "06_Meth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleDestructuring_End", "06_Methods\05_TupleDestructuring\TupleDestructuring_End\TupleDestructuring_End.csproj", "{1EB79E1F-8119-4742-A70C-3DBF88F9B259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalMethods_End", "06_Methods\04_LocalMethods\LocalMethods_End\LocalMethods_End.csproj", "{68487EAB-2C8A-4F02-AC9E-794934B815FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -317,6 +319,10 @@ Global
 		{1EB79E1F-8119-4742-A70C-3DBF88F9B259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EB79E1F-8119-4742-A70C-3DBF88F9B259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EB79E1F-8119-4742-A70C-3DBF88F9B259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68487EAB-2C8A-4F02-AC9E-794934B815FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68487EAB-2C8A-4F02-AC9E-794934B815FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68487EAB-2C8A-4F02-AC9E-794934B815FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68487EAB-2C8A-4F02-AC9E-794934B815FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -403,6 +409,7 @@ Global
 		{75D0BEFD-E16E-4703-B9A8-2DD5B3A35F10} = {50DDCE83-A716-4B85-A761-8F0BA4BB053B}
 		{3513A3EE-EF0D-43B7-B271-B995E14280C3} = {4644AFB5-389E-4217-A131-5718298F5868}
 		{1EB79E1F-8119-4742-A70C-3DBF88F9B259} = {75D0BEFD-E16E-4703-B9A8-2DD5B3A35F10}
+		{68487EAB-2C8A-4F02-AC9E-794934B815FD} = {64425E53-C804-4F0B-A183-E46FCAFD85E4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {16637C21-7203-4CE8-8C9D-7466EFB79170}
