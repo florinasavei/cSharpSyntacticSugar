@@ -177,6 +177,15 @@ Row3";
             result = String.Format("{0:N0}", 123.4567);        // "123"
             result = string.Format("{0:yyyy_MM_dd_HH_mm_ss_fff}", DateTime.Now);
             //2013_10_23_13_04_55_388
+
+
+            string myName = "Florin";
+            myName += " Asavei"; // operator overload
+            myName = myName.ToLower();
+
+            StringBuilder builder = new StringBuilder("Gigi");
+            builder.Append("Micu");
+
         }
     }
 }
