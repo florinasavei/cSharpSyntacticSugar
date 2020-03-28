@@ -7,7 +7,7 @@ namespace GenericList_End
     {
         static void Main(string[] args)
         {
- 
+
             var numbers = new List<int>();
             numbers.Add(2);
             numbers.Add(3);
@@ -15,4 +15,5 @@ namespace GenericList_End
             numbers.Add(7);
             Console.WriteLine("LIST 1: " + numbers.Count);
         }
+    }
 }

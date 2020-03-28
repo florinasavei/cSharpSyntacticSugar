@@ -44,7 +44,7 @@ namespace Generics_End
             // instance of float type 
             Anything<float> version = new Anything<float>();
             version.value = 5.0F;
-            name.Display<string>("A Float :", version.value);
+            name.Display<float>("A Float :", version.value);
 
 
             // display Some string 

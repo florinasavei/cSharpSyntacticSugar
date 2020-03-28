@@ -13,7 +13,7 @@ namespace WorkingWithNulls
             Nullable<int> j = null;
 
             // Valid declaration
-            int? j = null;
+            int? k = null;
 
             // defining Nullable type 
             Nullable<int> n = null;

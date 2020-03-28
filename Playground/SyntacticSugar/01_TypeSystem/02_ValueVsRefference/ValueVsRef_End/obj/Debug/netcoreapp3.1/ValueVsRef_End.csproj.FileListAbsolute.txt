@@ -4,7 +4,6 @@ D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\Syntac
 D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\02_ValueVsRefference\ValueVsRef_End\bin\Debug\netcoreapp3.1\ValueVsRef_End.runtimeconfig.dev.json
 D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\02_ValueVsRefference\ValueVsRef_End\bin\Debug\netcoreapp3.1\ValueVsRef_End.dll
 D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\02_ValueVsRefference\ValueVsRef_End\bin\Debug\netcoreapp3.1\ValueVsRef_End.pdb
-D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\02_ValueVsRefference\ValueVsRef_End\obj\Debug\netcoreapp3.1\ValueVsRef_End.csprojAssemblyReference.cache
 D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\02_ValueVsRefference\ValueVsRef_End\obj\Debug\netcoreapp3.1\ValueVsRef_End.csproj.CoreCompileInputs.cache
 D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\02_ValueVsRefference\ValueVsRef_End\obj\Debug\netcoreapp3.1\ValueVsRef_End.AssemblyInfoInputs.cache
 D:\DEV\PERS\AgileHub\cSharpSyntacticSugar\cSharpSyntacticSugar\Playground\SyntacticSugar\01_TypeSystem\02_ValueVsRefference\ValueVsRef_End\obj\Debug\netcoreapp3.1\ValueVsRef_End.AssemblyInfo.cs
