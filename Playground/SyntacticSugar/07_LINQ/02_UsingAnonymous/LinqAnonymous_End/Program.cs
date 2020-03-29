@@ -33,7 +33,18 @@ namespace LinqAnonymous_End
 
             // select query showing result 
             // using anonymous type 
-            var anony_ob = from geek in g select new { geek.A_no, geek.Aname, geek.language };
+            var anony_ob = g
+                .Select(geek => new  {  geek.A_no, geek.Aname, geek.language })
+                .Where(t => t.A_no % 2 == 0)
+                .OrderByDescending(t => t.A_no);
+
+            var concrete_ob = g
+                .Select(geek => new Geeks { A_no = geek.A_no, Aname = geek.Aname, language = geek.language })
+                .Where(t => t.A_no % 2 == 0)
+                .OrderByDescending(t => t.A_no);
+
+            var sonya = g.FirstOrDefault(t => t.Aname == "Soniya");
+
             foreach (var i in anony_ob)
             {
                 Console.WriteLine("Author id = " + i.A_no + "\nAuthor name = "

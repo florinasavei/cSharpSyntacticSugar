@@ -6,7 +6,21 @@ namespace DynamicObject_End
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            dynamic studentDynamic = new
+            {
+                Id = 1,
+                Name = "Florin",
+                Age = 29,
+            };
+
+
+            var concreteStudent = new Student
+            {
+                Id = studentDynamic.Id,
+                Name = studentDynamic.Name,
+                Age = studentDynamic.Age
+            };
+
         }
     }
 }

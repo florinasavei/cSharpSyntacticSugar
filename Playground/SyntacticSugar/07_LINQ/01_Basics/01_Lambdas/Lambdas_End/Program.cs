@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Lambdas_End
 {
@@ -6,7 +7,10 @@ namespace Lambdas_End
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] numbers = { 2, 3, 4, 5 };
+            var squaredNumbers = numbers.Select(x => x * x);
+            Console.WriteLine(string.Join(" ", squaredNumbers));
+
         }
     }
 }

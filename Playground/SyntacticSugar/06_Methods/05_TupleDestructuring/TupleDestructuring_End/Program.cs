@@ -39,7 +39,7 @@ namespace TupleDestructuring_End
             Console.WriteLine("Age: " + age);
             Console.WriteLine("Color: " + color);
 
-            (var type2, var name2, var height2, var age2, var color2) = p.PetDetails("Cat", "Poo", 104, 1, "Black&White");
+            var (type2, name2, height2, age2, color2) = p.PetDetails("Cat", "Poo", 104, 1, "Black&White");
             Console.WriteLine("\nPet Details:");
             Console.WriteLine("Type: " + type2);
             Console.WriteLine("Name: " + name2);

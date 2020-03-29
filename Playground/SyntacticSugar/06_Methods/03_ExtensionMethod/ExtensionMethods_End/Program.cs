@@ -1,4 +1,5 @@
 ﻿using System;
+using ExtensionMethods_End.CustomExtensions;
 
 namespace ExtensionMethods_End
 {
@@ -6,7 +7,9 @@ namespace ExtensionMethods_End
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string text = "  I'm    wearing the   cheese.  It isn't wearing me!   ";
+            text = text.TrimAndReduce().ToLower();
+
         }
     }
 }

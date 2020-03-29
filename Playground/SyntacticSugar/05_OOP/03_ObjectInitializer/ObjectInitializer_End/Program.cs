@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ObjectInitializer_End
 {
@@ -6,13 +7,15 @@ namespace ObjectInitializer_End
     {
         static void Main(string[] args)
         {
-            var student = new Student
+            var florin = new Student
             {
-                Id = 6,
-                Name = "Gigi",
-                Age = 19,
-                Grades = null
-        };
+                FullName = "Florin Asavei",
+                Age = 29,
+                ShoeSize = 41,
+                Grades = new List<float> {7,8,10,9.5f}
+            };
+
+        }
     }
 }
-}
+

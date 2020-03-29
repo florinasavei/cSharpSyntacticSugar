@@ -108,16 +108,3 @@ public class Example
         }
     }
 }
-// The example displays the following output:
-//       Information about square:
-//          Length of a side: 10
-//          Area: 100
-//       Information about rectangle:
-//          Dimensions: 5 x 7
-//          Area: 35
-//       An uninitialized shape
-//       The shape: Square with no dimensions
-//       Information about square rectangle:
-//          Length of a side: 8
-//          Area: 64
-//       A Circle shape
